@@ -1,0 +1,26 @@
+{
+  "name": "createmyprojecthere",
+  "author": "",
+  "description": "Webdriver E2E test wrapper for Angular.",
+  "license": "ISC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@types/es6-promise": "^3.3.0",
+    "jasmine": "^3.3.0",
+    "jasmine-data-provider": "^2.2.0",
+    "protractor": "^5.4.1",
+    "protractor-beautiful-reporter": "^1.2.5",
+    "protractor-jasmine2-screenshot-reporter": "^0.5.0",
+    "selenium-standalone": "^6.15.3",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^2.8.9",
+    "protractor-jasmine2-html-reporter": "^0.0.7",
+    "jasmine-data-provider": "^2.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
